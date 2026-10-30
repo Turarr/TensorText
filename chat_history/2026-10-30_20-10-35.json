@@ -1,0 +1,33 @@
+{
+  "session_id": "2026-10-30_20-10-35",
+  "messages": [],
+  "current_paper_text": "",
+  "current_paper_name": "",
+  "scholar_abstracts": [
+    {
+      "title": "Deep learning and computer vision in plant disease detection: a comprehensive review of techniques, models, and trends in precision agriculture",
+      "year": 2025,
+      "authors": "Abhishek Upadhyay, Narendra Singh Chandel, Krishna Pratap Singh, Subir Kumar Chakraborty, Balaji Murhari Nandede, Mohit Kumar, Anakkallan Subeesh, Konga Upendar, Ali Salem, Ahmed Elbeltagi",
+      "abstract": "Abstract Plant diseases cause significant damage to agriculture, leading to substantial yield losses and posing a major threat to food security. Detection, identification, quantification, and diagnosis of plant diseases are crucial parts of precision agriculture and crop protection. Modernizing agriculture and improving production efficiency are significantly affected by using computer vision technology for crop disease diagnosis. This technology is notable for its non-destructive nature, speed, real-time responsiveness, and precision. Deep learning (DL), a recent breakthrough in computer vision, has become a focal point in agricultural plant protection that can minimize the biases of manually selecting disease spot features. This study reviews the techniques and tools used for automatic disease identification, state-of-the-art DL models, and recent trends in DL-based image analysis. The techniques, performance, benefits, drawbacks, underlying frameworks, and reference datasets of more than 278 research articles were analyzed and subsequently highlighted in accordance with the architecture of computer vision and deep learning models. Key findings include the effectiveness of imaging techniques and sensors like RGB, multispectral, and hyperspectral cameras for early disease detection. Researchers also evaluated various DL architectures, such as convolutional neural networks, vision transformers, generative adversarial networks, vision language models, and foundation models. Moreover, the study connects academic research with practical agricultural applications, providing guidance on the suitability of these models for production environments. This comprehensive review offers valuable insights into the current state and future directions of deep learning in plant disease detection, making it a significant resource for researchers, academicians, and practitioners in precision agriculture.",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-024-11100-x.pdf",
+      "landing_page_url": "https://doi.org/10.1007/s10462-024-11100-x"
+    },
+    {
+      "title": "A Deep Learning Enabled Multi-Class Plant Disease Detection Model Based on Computer Vision",
+      "year": 2021,
+      "authors": "Arunabha M. Roy, Jayabrata Bhaduri",
+      "abstract": "In this paper, a deep learning enabled object detection model for multi-class plant disease has been proposed based on a state-of-the-art computer vision algorithm. While most existing models are limited to disease detection on a large scale, the current model addresses the accurate detection of fine-grained, multi-scale early disease detection. The proposed model has been improved to optimize for both detection speed and accuracy and applied to multi-class apple plant disease detection in the real environment. The mean average precision (mAP) and F1-score of the detection model reached up to 91.2% and 95.9%, respectively, at a detection rate of 56.9 FPS. The overall detection result demonstrates that the current algorithm significantly outperforms the state-of-the-art detection model with a 9.05% increase in precision and 7.6% increase in F1-score. The proposed model can be employed as an effective and efficient method to detect different apple plant diseases under complex orchard scenarios.",
+      "pdf_url": "https://www.mdpi.com/2673-2688/2/3/26/pdf",
+      "landing_page_url": "https://doi.org/10.3390/ai2030026"
+    },
+    {
+      "title": "Plant leaf disease detection using computer vision and machine learning algorithms",
+      "year": 2022,
+      "authors": "Sunil Swamilingappa Harakannanavar, Jayashri Rudagi, Veena I Puranikmath, Ayesha Siddiqua, R Pramodhini",
+      "abstract": "Agriculture provides food to all the human beings even in case of rapid increase in the population. It is recommended to predict the plant diseases at their early stage in the field of agriculture is essential to cater the food to the overall population. But it unfortunate to predict the diseases at the early stage of the crops. The idea behind the paper is to bring awareness amongst the farmers about the cutting-edge technologies to reduces diseases in plant leaf. Since tomato is merely available vegetable, the approaches of machine learning and image processing with an accurate algorithm is identified to detect the leaf diseases in the tomato plant. In this investigation, the samples of tomato leaves having disorders are considered. With these disorder samples of tomato leaves, the farmers will easily find the diseases based on the early symptoms. Firstly, the samples of tomato leaves are resized to 256 × 256 pixels and then Histogram Equalization is used to improve the quality of tomato samples. The K-means clustering is introduced for partitioning of dataspace into Voronoi cells. The boundary of leaf samples is extracted using contour tracing. The multiple descriptors viz., Discrete Wavelet Transform, Principal Component Analysis and Grey Level Co-occurrence Matrix are used to extract the informative features of the leaf samples. Finally, the extracted features are classified using machine learning approaches such as Support Vector Machine (SVM), Convolutional Neural Network (CNN) and K-Nearest Neighbor (K-NN). The accuracy of the proposed model is tested using SVM (88%), K-NN (97%) and CNN (99.6%) on tomato disordered samples.",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2666285X22000218/pdf",
+      "landing_page_url": "https://doi.org/10.1016/j.gltp.2022.03.016"
+    }
+  ],
+  "add_scholar_to_context": false
+}

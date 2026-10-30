@@ -1,0 +1,27 @@
+{
+  "session_id": "2026-05-26_15-42-10",
+  "messages": [],
+  "current_paper_text": "",
+  "current_paper_name": "",
+  "scholar_abstracts": [
+    {
+      "title": "Randomized Trial of a Generative AI Chatbot for Mental Health Treatment",
+      "year": 2025,
+      "authors": "Michael V. Heinz, Daniel M. Mackin, Brianna M. Trudeau, Sukanya Bhattacharya, Yinzhou Wang, Haley A. Banta, Abi D. Jewett, Abigail J. Salzhauer, Tess Z. Griffin, Nicholas C. Jacobson",
+      "abstract": "BACKGROUND Generative artificial intelligence (Gen-AI) chatbots hold promise for building highly personalized, effective mental health treatments at scale, while also addressing user engagement and retention issues common among digital therapeutics. We present a randomized controlled trial (RCT) testing an expert–fine-tuned Gen-AI–powered chatbot, Therabot, for mental health treatment. METHODS We conducted a national, randomized controlled trial of adults (N=210) with clinically significant symptoms of major depressive disorder (MDD), generalized anxiety disorder (GAD), or at clinically high risk for feeding and eating disorders (CHR-FED). Participants were randomly assigned to a 4-week Therabot intervention (N=106) or waitlist control (WLC; N=104). WLC participants received no app access during the study period but gained access after its conclusion (8 weeks). Participants were stratified into one of three groups based on mental health screening results: those with clinically significant symptoms of MDD, GAD, or CHR-FED. Primary outcomes were symptom changes from baseline to postintervention (4 weeks) and to follow-up (8 weeks). Secondary outcomes included user engagement, acceptability, and therapeutic alliance (i.e., the collaborative patient and therapist relationship). Cumulative-link mixed models examined differential changes. Cohen’s d effect sizes were unbounded and calculated based on the log-odds ratio, representing differential change between groups."
+    },
+    {
+      "title": "AI governance: a systematic literature review",
+      "year": 2025,
+      "authors": "Amna Batool, Didar Zowghi, Muneera Bano",
+      "abstract": "As artificial intelligence (AI) transforms a wide range of sectors and drives innovation, it also introduces different types of risks that should be identified, assessed, and mitigated. Various AI governance frameworks have been released recently by governments, organizations, and companies to mitigate risks associated with AI. However, it can be challenging for AI stakeholders to have a clear picture of the available AI governance frameworks, tools, or models and analyze the most suitable one for their AI system. To fill the gap, we present the literature to answer key questions: WHO is accountable for AI systems’ governance, WHAT elements are being governed, WHEN governance occurs within the AI development life cycle, and HOW it is implemented through frameworks, tools, policies, or models. Adopting the systematic literature review (SLR) methodology, this study meticulously searched, selected, and analyzed 28 articles, offering a foundation for understanding different facets of AI governance. The analysis is further enhanced by categorizing artifacts of AI governance under team-level governance, organization-level governance, industry-level governance, national-level governance, and international-level governance. The findings of this study on existing AI governance solutions can assist research communities in proposing comprehensive AI governance practices."
+    },
+    {
+      "title": "Exploring automation bias in human–AI collaboration: a review and implications for explainable AI",
+      "year": 2025,
+      "authors": "Giuseppe Romeo, Daniela Conti",
+      "abstract": null
+    }
+  ],
+  "add_scholar_to_context": false
+}

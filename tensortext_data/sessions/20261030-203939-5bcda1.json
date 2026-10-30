@@ -1,0 +1,63 @@
+{
+  "id": "20261030-203939-5bcda1",
+  "title": "Новое исследование",
+  "created_at": "2026-10-30T20:39:39",
+  "messages": [],
+  "documents": [],
+  "papers": [
+    {
+      "id": "https://openalex.org/W2096307888",
+      "title": "Purifying Practices: How Consumers Assemble Romantic Experiences of Nature",
+      "year": 2012,
+      "authors": "Robin Canniford, Avi Shankar",
+      "abstract": "Prior consumer research theorizes nature as an ideal stage for romantic consumption experiences by framing nature as external to culture. The same studies, however, problematize this framing by highlighting the consumer-cultural resources through which nature is harnessed and interpreted. Through an ethnography of surfing culture, this article theorizes consumers' experiences of nature as emerging from assemblages of heterogeneous resources. A theory of assemblage shows that material geographies are vital to the reproduction of romantic discourses. Assemblages of nature are characterized by fragility and contestation, however, due to service structures, technological resources, and social tensions that betray the ideal of external nature. Consumers overcome these contradictions through purifying practices. Purifying practices preserve romantic beliefs that nature is external to culture by masking or purging problematic elements of assemblages. The negative environmental effects of these practices are discussed and compared with sustainable purifying practices that redress the damaging impact of consuming nature.",
+      "url": "https://doi.org/10.1086/667202",
+      "pdf_url": "https://academic.oup.com/jcr/article-pdf/39/5/1051/5079192/39-5-1051.pdf",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "https://openalex.org/W3123528158",
+      "title": "Emissions Trading and the Polluter-Pays Principle: Do Polluters Pay under Grandfathering?",
+      "year": 2008,
+      "authors": "Edwin Woerdman, Alessandra Arcuri, Stefano Clò",
+      "abstract": "Abstract Emissions trading is becoming increasingly popular in environmental law. Allowances to trade emissions can either be auctioned off or handed out free of charge by means of grandfathering. Although grandfathering is frequently used in emissions trading schemes, it is a popular view in the economic and legal literature that grandfathering is inconsistent with the polluter-pays principle. We come to a different, more nuanced view. The question of whether polluters pay under grandfathering depends on how the polluter-pays principle is interpreted. We present a taxonomy of interpretations. Based on an efficiency interpretation of the principle, consistency is demonstrated by emphasizing the economic impact of the opportunity costs of gratis allowances and the lump sum nature of the subsidy that is inherent to grandfathering. Inconsistency can only be claimed based on an equity interpretation of the polluter-pays principle. Allocating allowances free of charge means that polluting firms receive a capital gift making their shareholders richer, which may be perceived as unfair. We draw two conclusions. First, contrary to what some have claimed, grandfathering is compatible with an efficiency interpretation of the polluter-pays principle. Second, only auctioning is consistent with an extended form of this principle. Auctioning ensures not only that pollution costs are internalized (efficiency), but also that producers buy their allowances before they pass on those costs to consumers (equity).",
+      "url": "https://doi.org/10.2139/ssrn.1271843",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "id": "https://openalex.org/W4300089528",
+      "title": "The photocatalytic process in the treatment of polluted water",
+      "year": 2022,
+      "authors": "Marwah Al-Nuaim, Asawer A. Alwasiti, Zainab Yousif Shnain",
+      "abstract": "Аннотация отсутствует.",
+      "url": "https://doi.org/10.1007/s11696-022-02468-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11696-022-02468-7.pdf",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "https://openalex.org/W2032412257",
+      "title": "Effects of Air Quality Regulation on in Polluting Industries",
+      "year": 1997,
+      "authors": "Randy A. Becker, J. Vernon Henderson",
+      "abstract": "Leslie Papke and Jeff Wooldridge (1991) for use of their program to calculate robust standard errors in conditional Poisson models.The",
+      "url": "https://doi.org/10.3386/w6160",
+      "pdf_url": "https://doi.org/10.3386/w6160",
+      "source": "OpenAlex"
+    },
+    {
+      "id": "https://openalex.org/W4406206291",
+      "title": "How integrating nature-based solutions into farmers' strategies can play on inefficient use of polluting inputs",
+      "year": 2023,
+      "authors": "Jérôme Faure, Esther Devilliers",
+      "abstract": "This article examines how integrating nature-based solutions into agricultural strategies can address the inefficient use of polluting technological solutions. A theoretical microeconomic model, based on subjective expected utility, is developed and empirically tested on rapeseed cultivation. The study highlights the overuse of polluting technological solutions and the underuse of nature-based solutions, driven by inaccurate perceptions of input productivity. The article provides recommendations for public policies aimed at correcting these perceptions and optimizing the use of inputs by balancing the cost-effectiveness of interventions for both nature-based and polluting technological solutions. The findings suggest that policies focused on correcting misperceptions about polluting technological solutions are more effective than those focused on nature-based solutions.",
+      "url": "https://hal.science/hal-04869177",
+      "pdf_url": "https://hal.science/hal-04869177/document",
+      "source": "OpenAlex"
+    }
+  ],
+  "selected_papers": [],
+  "tables": [],
+  "literature_review": "",
+  "search_query": "How data centers pollutes nature"
+}
